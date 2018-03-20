@@ -1,0 +1,46 @@
+.btn.del{ 
+    height: 3em;
+    background-color: rgb(248, 48, 48);
+    color: white;   
+}
+
+.btn.del:hover {
+    background-color: rgb(128, 4, 4);
+    color: white;
+    cursor: pointer;
+}
+
+#notes_holder{
+    width: 100%;
+} 
+
+/*note td*/
+ #notes_holder tr td:nth-child(odd) {
+     width: 90%;     
+     height: 3em; 
+     border-radius: 6px;
+     border-left: 6px solid #2196F3;
+     padding-left: 15px;
+      font-weight: bold;
+ }
+
+ /*del button td*/
+ #notes_holder tr td:nth-child(even) { 
+    border-radius: 6px;
+}
+
+/*odd row*/
+#notes_holder tr:nth-child(odd) {
+    background-color: skyblue;
+ 
+}
+
+/*even row*/
+#notes_holder tr:nth-child(even) {
+   background-color: rgb(201, 230, 241);   
+} 
+ 
+#notes_holder tr:hover {
+    opacity: 0.7;    
+ }
+ 
