@@ -1,5 +1,5 @@
 I had a pleasure to make this small project. 
-Previously, I didn't work with PHP and sometimes some parts were challenged for me.
+Previously, I didn't work with PHP and sometimes some parts were a bit challenged for me.
 Most of the time I used to project I devote for backend.
 
 I was inspired by:
