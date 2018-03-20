@@ -3,8 +3,8 @@ Previously, I didn't work with PHP and sometimes some parts were a bit challenge
 Most of the time I used to project I devote for backend.
 
 I was inspired by:
-https://codewithawa.com/posts/complete-user-registration-system-using-php-and-mysql-database - forms and session
-https://www.youtube.com/watch?v=WU2C4bX8zLo - back end
+1) https://codewithawa.com/posts/complete-user-registration-system-using-php-and-mysql-database - forms and session
+2) https://www.youtube.com/watch?v=WU2C4bX8zLo - back end
 
 Below DB Tables:
 
